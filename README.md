@@ -20,6 +20,47 @@ Partner with Sales and Marketing teams to ensure alignment of direct mail campai
 I am graduating with a Masters in Data Science from Bellevue University in June 2025. 
 
 
+
+## Work
+This repository is a collection of projects completed showcasing my ability to complete various models and tasks. Descriptions and names can be found below.
+
+Project 1:
+Time-Series Data Analysis: LGBM model applied to sales inventory data to optimize performance
+
+Project 2:
+
+Random Forest Analysis of Marketing Data: Using a random forest regression to determine the most effective marketing campaign by sales.
+
+Project 3:
+
+Credit Card Default Prediction using Logistic Regression: Using customer data from the UC Irvine machine learning repository to predict whether a client will default using a logistic regression
+
+Project 4: Movie Recommender- This project takes in data from the MovieLens database to develop a movie recommender model. It uses average rating to group similaar movie types and recommend movies to the user.
+
+Project 5: 
+K-means analyis of ALS- This project is a K Means Classifier analaysis of ALS data
+
+Project 6: 
+Dodgers Attendance Analysis- This is an analysis of attendance data at Dodgers games in 2022
+
+Project 7: 
+Text Analysis - This is a text sentiment analysis
+
+Project 8: 
+Neural Network- This project is a neural network capable of identifying handwritten numbers
+
+Project 9: 
+Bank Marketing - This project is a study of clients of a bank and their subscription to long term accounts
+
+Project 10:
+News Data Analysis - Study of how people get their news
+
+## Contact
+
+Email: tim.rogers08@gmail.com
+LinkedIn: https://www.linkedin.com/in/timothy-rogers-westnewton/
+
+
 <!--
 **tim-rogers12/tim-rogers12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
