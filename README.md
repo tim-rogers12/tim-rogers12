@@ -22,7 +22,7 @@ I am graduating with a Masters in Data Science from Bellevue University in June 
 
 
 ## Work
-This repository is a collection of projects completed showcasing my ability to complete various models and tasks. Descriptions and names can be found below.
+This repository is a collection of projects completed showcasing my ability to complete various models and tasks. Descriptions and names can be found below. Any data and projects can be found in My Repositories.
 
 Project 1:
 Time-Series Data Analysis: LGBM model applied to sales inventory data to optimize performance
